@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omarh\\OOP\\depi1\\",
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Depi-Data-Engineer\\depi1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F9426E-37CA-4E16-8F1C-133156840754}|depi1\\depi1.pyproj|C:\\Users\\omarh\\OOP\\depi1\\depi1\\depi1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{07F9426E-37CA-4E16-8F1C-133156840754}|depi1\\depi1.pyproj|C:\\Users\\omarh\\Depi-Data-Engineer\\depi1\\depi1\\depi1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{07F9426E-37CA-4E16-8F1C-133156840754}|depi1\\depi1.pyproj|solutionrelative:depi1\\depi1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "depi1.py",
-              "DocumentMoniker": "C:\\Users\\omarh\\OOP\\depi1\\depi1\\depi1.py",
+              "DocumentMoniker": "C:\\Users\\omarh\\Depi-Data-Engineer\\depi1\\depi1\\depi1.py",
               "RelativeDocumentMoniker": "depi1\\depi1.py",
-              "ToolTip": "C:\\Users\\omarh\\OOP\\depi1\\depi1\\depi1.py",
+              "ToolTip": "C:\\Users\\omarh\\Depi-Data-Engineer\\depi1\\depi1\\depi1.py",
               "RelativeToolTip": "depi1\\depi1.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-08-14T16:24:15.096Z",
               "EditorCaption": ""
