@@ -7,7 +7,7 @@ def TupleAVGToList(Tuplle):
     newList = [];
     x = 0
     y = 0
-    for i in range(len(List)):
+    for i in range(len(List[0])):
         for j in range(len(List)):
             x = x + List[j][i]
             y = y + 1
@@ -16,6 +16,10 @@ def TupleAVGToList(Tuplle):
         y = 0
     return newList
 
+
+Tuple2 = ((1,1,-5),(30,-15,56),(81,-60,-39),(-10,2,3))
+List2 = TupleAVGToList(Tuple2)
+print(List2)
 Tuple1 = ((10,10,10,12),(30,45,56,45),(81,80,39,32),(1,2,3,4))
-List = TupleAVGToList(Tuple1)
-print(List)
+List1 = TupleAVGToList(Tuple1)
+print(List1)
