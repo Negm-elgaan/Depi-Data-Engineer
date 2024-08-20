@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omarh\\Depi-Data-Engineer\\Tuple average\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D37D16-1CE4-4344-864E-E71F73CC07D4}|Tuple average\\Tuple average.pyproj|C:\\Users\\omarh\\Depi-Data-Engineer\\Tuple average\\Tuple average\\Tuple_average.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3D37D16-1CE4-4344-864E-E71F73CC07D4}|Tuple average\\Tuple average.pyproj|solutionrelative:Tuple average\\Tuple_average.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tuple_average.py",
+              "DocumentMoniker": "C:\\Users\\omarh\\Depi-Data-Engineer\\Tuple average\\Tuple average\\Tuple_average.py",
+              "RelativeDocumentMoniker": "Tuple average\\Tuple_average.py",
+              "ToolTip": "C:\\Users\\omarh\\Depi-Data-Engineer\\Tuple average\\Tuple average\\Tuple_average.py",
+              "RelativeToolTip": "Tuple average\\Tuple_average.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-20T04:54:26.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
